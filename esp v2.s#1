@@ -4270,7 +4270,7 @@ COM-09264 (Diffuse)</description>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
 <part name="." library="SparkFun-Connectors" deviceset="M08" device="1X08"/>
-<part name="DOWNC" library="SparkFun-Capacitors" deviceset="1.0UF-25V-+80/-20(0805)" device="" value="100nF"/>
+<part name="DOWNC" library="SparkFun-Capacitors" deviceset="1.0UF-25V-+80/-20(0805)" device="" value="1.0uF"/>
 <part name="UP1" library="SparkFun-Resistors" deviceset="0.3OHM-1/8W-1%(0805)" device=""/>
 <part name="+3V8" library="supply1" deviceset="+3V3" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
